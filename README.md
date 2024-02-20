@@ -1,4 +1,4 @@
-## :rocket: Seja muito bem vindo ao meu perfil :rocket:
+## Seja muito bem vindo ao meu perfil :rocket:
 
 - 💪 Dinamismo e vontade de enfrentar novos desafios com determinação.
 - <img align="center" alt="James-Js" height="20" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" /> Lógica afiada e habilidade para abordar desafios de maneira estruturada.
