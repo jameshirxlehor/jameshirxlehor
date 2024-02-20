@@ -1,6 +1,4 @@
 ## :rocket: Seja muito bem vindo ao meu perfil :rocket:
-
--   
 - 💡 Lógica afiada e habilidade para abordar desafios de maneira estruturada.
 - 💪 Dinamismo e vontade de enfrentar novos desafios com determinação.
 - 📚 Aprendizado rápido e facilidade em assimilar novos conceitos e tecnologias.
