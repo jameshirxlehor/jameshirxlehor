@@ -1,16 +1,17 @@
 ## :rocket: Seja muito bem vindo ao meu perfil :rocket:
-- 💡 Lógica afiada e habilidade para abordar desafios de maneira estruturada.
+
 - 💪 Dinamismo e vontade de enfrentar novos desafios com determinação.
-- 📚 Aprendizado rápido e facilidade em assimilar novos conceitos e tecnologias.
-- 📚 Conhecimento em Flutter (liguagem Dart).
-- 📚 Conhecimento em Programação Orientada a Objetos.
-- 📚 Conhecimento em Metodologias Ágeis para TI.(Scrum, Kanban, SOLID...)
-- 📚 Conhecimento em Firebase.
-- 📚 Conhecimento em linguagem C e C++.
-- 📚 Conhecimento em banco de dados Relacionais(SQL/MySQL).
-- 📚 Conhecimento em banco de dados Não relacionais(NoSQL/MongoDB).
-- 📚 Conhecimento em JavaScript.
-- 📚 Conhecimento em Node.JS.
+- <img align="center" alt="James-Js" height="20" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" /> Lógica afiada e habilidade para abordar desafios de maneira estruturada.
+- <img align="center" alt="James-Js" height="20" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-plain.svg" /> Aprendizado rápido e facilidade em assimilar novos conceitos e tecnologias.
+- <img align="center" alt="James-Js" height="20" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> Conhecimento em Flutter (liguagem Dart).
+- <img align="center" alt="James-Js" height="20" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> Conhecimento em Programação Orientada a Objetos.
+- <img align="center" alt="James-Js" height="20" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitbook/gitbook-original.svg" /> Conhecimento em Metodologias Ágeis para TI.(Scrum, Kanban, SOLID...)
+- <img align="center" alt="James-Js" height="20" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /> Conhecimento em Firebase.
+- <img align="center" alt="James-Js" height="20" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" /> Conhecimento em linguagem C e C++.
+- <img align="center" alt="James-Js" height="20" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /> Conhecimento em banco de dados Relacionais(SQL/MySQL).
+- <img align="center" alt="James-Js" height="20" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" /> Conhecimento em banco de dados Não relacionais(NoSQL/MongoDB).
+- <img align="center" alt="James-Js" height="20" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> Conhecimento em JavaScript.
+- <img align="center" alt="James-Js" height="20" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /> Conhecimento em Node.JS.
 
 <div>
   <a herf="https://github.com/jameshirxlehor">
@@ -32,20 +33,8 @@
   <img align="center" alt="James-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
   <img align="center" alt="James-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="James-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="James-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
   
 </div>
 
-<!--
-**jameshirxlehor/jameshirxlehor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
